@@ -25,6 +25,8 @@
 		<log4j.version>1.2.17</log4j.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		 <sonar.host.url>ec2-15-207-109-229.ap-south-1.compute.amazonaws.com:9000/</sonar.host.url>
+		<sonar.login>9bfc9d5dab6ca79e2024a42ad2904dadaeb04923</sonar.login>
 	</properties>
 
 	<dependencies>
